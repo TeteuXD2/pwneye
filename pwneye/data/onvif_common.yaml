@@ -13,6 +13,7 @@ ports:
 usernames:
   - ""
   - admin
+  - admintapo
   - root
   - user
   - camera
